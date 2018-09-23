@@ -28,12 +28,18 @@ body {
 header {
     text-align: center;
     padding: 20px 0;
-    background-color: rgb(3, 81, 248, .7);
+    background-color: rgb(85, 137, 248);
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
 }
 
 .contenedor {
     margin: 0 auto;
+    margin-top: 200px;
     width: 800px;
+    
 }
 
 div.hero img {
